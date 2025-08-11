@@ -1,19 +1,39 @@
 <div align="center">
   <img height="250"  width="1000" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
-
-
+    
 <h1 align="center">Hey there 👋</h1>
 
 ###
 
 <h2 align="left">👩‍💻 About Me</h2>
 
+    class DataProfessional:
+
+    def __init__(self):
+        self.name = "Omar Ahmed"
+        self.role = "Sr.Data Analyst"
+        self.language_spoken = ["Arabic", "English"]
+        self.goal = "My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning"
+        self.skills {programming_languages : ["Python", "SQL"],
+                          data_visualization_tools : ["MetaBase","Power BI","Tableau","Excel & Google Sheets"],
+                          Database_Management : ["DBMS","ETL","Data Modeling"],
+                          Cloud Platforms: ["AWS","Azure","GCP"],
+                          Web_Development_&_Automation: ["Flask","Firebase"],
+                          "devops": ["Docker", "CI/CD", "GitHub Actions"],
+                          "specialties": ["RFM Analysis", "Churn Prediction", "Financial Forecasting Models"]
+
+    def say_hello(self):
+        print(f"Hi, I'm {self.name}, a {self.role}.")
+        print("Thanks for stopping by — I hope you find some of my work interesting!")
+
+
+    me = DataProfessional()
+    me.say_hello()
+
+
 <p align="left">
-I'm Omar Ahmed from Cairo,Egypt <br><br>
-- 🔭 I’m currently working as a <b>Sr.Data Analyst</b> at NowPay<br>
 - 📚 I’m currently learning <b>Data Science, Machine Learning, Cloud Computing, dbt, Airflow</b><br>
-- 🎯 My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning</b> <br>
 - ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="40" width="30" src= "https://kaufdeinfleisch.de/wp-content/uploads/2024/09/Red-Bull-Energy-Drink_250ml_Einzeldose_LRES@4x-1024x1024.png"/>
 </p>
 
