@@ -15,19 +15,21 @@
         self.role = "Sr.Data Analyst"
         self.language_spoken = ["Arabic", "English"]
         self.goal = "My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning"
-        self.currently_learning = ["Data Science","Machine Learning","Cloud Computing","dbt","Airflow"]
+        self.currently_learning = ["Data Science", "Machine Learning", "Cloud Computing","dbt","Airflow"]
         self.skills {
-                          "Programming Languages" : ["Python", "SQL"],
-                          "Data Visualization" : ["MetaBase","Power BI","Tableau","Excel & Google Sheets"],
-                          "Database Management" : ["DBMS","ETL","Data Modeling"],
-                          "Cloud Platforms": ["AWS","Azure","GCP"],
-                          "Automation": ["Flask","Firebase"],
+                          "Programming Languages": ["Python", "SQL", "HTML", "CSS"],
+                          "Data Analytics": ["Pandas", "NumPy", "Matplotlib", "Power BI", "MetaBase", "Tableau", "Excel & Google Sheets"],
+                          "ETL & Data Engineering": ["SQLAlchemy", "Window Functions", "CTEs", "DBMS", "Data Modeling"],
+                          "Cloud Platforms": ["AWS", "Azure", "GCP"],
+                          "Automation": ["Flask", "Firebase"],
                           "DevOps": ["Docker", "CI/CD", "Git & GitHub"],
-                          "Analysis Type": ["User Funnel Analysis","RFM Analysis", "Customer Churn Analysis", "Financial Forecasting Analysis"]
+                          "Business Analytics": ["User Funnel Analysis", "RFM Analysis", "Customer Churn Analysis", "Financial Forecasting Analysis"]
                     }
       def say_hello(self):
         print(f"Hi, I'm {self.name}, a {self.role}.")
         print("Thanks for stopping by — I hope you find some of my work interesting!")
+        print(f"Current focus: {', '.join(self.currently_learning)}")
+
 
 
 
