@@ -20,7 +20,7 @@ I'm Omar Ahmed from Cairo,Egypt <br><br>
 
 
 ###
-<h2 align="left">🎓 Education & Courses</h2>
+<h2 align="left">🎓 Education</h2>
 
 - Bachelor’s Degree in Business Administration - Cairo University 2015-2019 ✅
 - Master's Degree in Big Data Technology - University of East London 2026-2028⏳
