@@ -14,7 +14,7 @@
         self.name = "Omar Ahmed"
         self.role = "Sr.Data Analyst"
         self.language_spoken = ["Arabic", "English"]
-        self.goal = "My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning"
+        self.goal = "My goal is to Master the Data Science, Data Engineering, Cloud Computing, and Machine Learning"
         self.currently_learning = ["Data Science", "Machine Learning", "Cloud Computing","dbt","Airflow"]
         self.skills {
                           "Programming Languages": ["Python", "SQL", "HTML", "CSS"],
