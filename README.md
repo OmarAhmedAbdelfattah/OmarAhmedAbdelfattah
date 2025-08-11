@@ -25,7 +25,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - 🔭 I’m currently working as a <b>Sr.Data Analyst</b> at NowPay<br>
 - 📚 I’m currently learning <b>Data Science, Machine Learning, Cloud Computing, dbt, Airflow</b><br>
 - 🎯 My goal is to transition into <b>Data Analytics Engineer / Cloud Data Engineer / AI Engineer</b> roles<br>
-- ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="30" src= "https://www.clipartmax.com/png/full/181-1814653_red-bull-red-bull-can-png.png"/>
+- ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="60" width="20" src= "https://kaufdeinfleisch.de/wp-content/uploads/2024/09/Red-Bull-Energy-Drink_250ml_Einzeldose_LRES@4x-1024x1024.png"/>
 </p>
 
 ###
@@ -33,7 +33,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 <h3 align="left">🎓 Education & Courses</h3>
 
-- Bachelor’s Degree in Business Administration 2015-2019 ✅
+- Bachelor’s Degree in Business Administration - Cairo University 2015-2019 ✅
 - Master's Degree in Big Data Technology - University of East London 2026-2028⏳
 
   
@@ -48,9 +48,8 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 <h3 align="left">📜 Certifications</h3>
 
-- <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in/" target="_blank"> AWS Certified Cloud Practitioner </a>
-- <a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> AWS Certified Data Analytics – Specialty  </a>
-
+<a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in/" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80"  /> </a>
+<a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height="80" /> </a>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -73,10 +72,15 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="30" alt="aws logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="gcp logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original-wordmark.svg" height="40" alt="google analyticslogo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
