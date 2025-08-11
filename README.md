@@ -25,9 +25,10 @@
                           "devops": ["Docker", "CI/CD", "GitHub Actions"],
                           "specialties": ["RFM Analysis", "Churn Prediction", "Financial Forecasting Models"]
                     }
-    def say_hello(self):
+      def say_hello(self):
         print(f"Hi, I'm {self.name}, a {self.role}.")
         print("Thanks for stopping by — I hope you find some of my work interesting!")
+
 
 
     me = DataProfessional()
