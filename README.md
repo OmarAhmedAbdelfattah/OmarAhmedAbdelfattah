@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - 🔭 I’m currently working as a <b>Data Analyst</b> at NowPay<br>
 - 📚 I’m currently learning <b>Advanced Data Analytics, Power BI, dbt, Airflow</b><br>
 - 🎯 My goal is to transition into <b>Data Analytics Engineer / Cloud Data Engineer / AI Engineer</b> roles<br>
-- ⚡ Fun fact: I can troubleshoot ETL pipelines faster after a strong Turkish coffee ☕
+- ⚡ Fun fact: I can troubleshoot ETL pipelines faster after a Redbull can <img height="40" src= "https://www.pngplay.com/image/593382"/>
 </p>
 
 ###
