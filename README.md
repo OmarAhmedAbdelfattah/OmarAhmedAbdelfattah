@@ -2,17 +2,6 @@
   <img height="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-###
 
 <h1 align="center">Hey there 👋</h1>
 
@@ -30,11 +19,14 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 ###
 
+<h3 align="left"></h3>
 
 <h3 align="left">🎓 Education & Courses</h3>
 
 - Bachelor’s Degree in Business Administration - Cairo University 2015-2019 ✅
 - Master's Degree in Big Data Technology - University of East London 2026-2028⏳
+  
+<h3 align="left"></h3>
 
   
 <h3 align="left">📚 Courses</h3>
@@ -46,10 +38,14 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - DataCamp Data Scientist in Python Track 🔄
 - Google Advanced Data Analytics Professional Certificate 🔄
 
-<h3 align="left">📜 Certifications</h3>
+<h3 align="left"></h3>
 
+<h3 align="left">📜 Certifications</h3>
+<div 
 <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in/" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80"  /> </a>
 <a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height="80" /> </a>
+<a href="https://skillshop.credential.net/8a8ee819-45ec-4397-b2a8-599a55dfbf6a#acc.u41OfXYy" target="_blank"> <img src="https://openbadgepassport.com/file/a/0/1/0/a01001d5d66720d750fddf9b220e31ee4b9919a1a22cf9e1480d7640da35ef65.png" height="80" /> </a>
+</div>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -64,28 +60,44 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo" />
+  <img src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" height="40" alt="flask logo" />
   <img width="12" />
-  <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_168103.png" height="40" alt="metabase logo" />
+  <img src="https://cdn.prod.website-files.com/63c6a35ee97bea3e121bf3f4/65ba74cf75b4e2ea78c7f6ef_659e9cc41aeb87cf15bd1037_0_ggXHerLxwisl_a4F.webp" height="40" alt="metabase logo" />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="40" alt="power bi logo" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5d28ebb6fbc5cd000177d261/1615472077362-HP3YQY01JM8KITIJR51Z/Power-BI-Logo.png?format=1500w" height="40" alt="power bi logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="40" alt="tableau logo" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="30" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"  alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" height="40" width="100"  alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="gcp logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/1200px-Google_Cloud_logo.svg.png" height="40" width=100"  alt="gcp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2021/11/Google-Analytics-Logo.png" height="40" alt="google analyticslogo" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/11/Google-Analytics-Logo.png" height="40" width="80"  alt="google analyticslogo" />
   <img width="12" />
 
 </div>
+
+<h3 align="left"></h3>
+
+<h3 align="left">📫 Reach me on </h3>
+
+<div align="left">
+<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin "  /> </a>
+  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" height="80" alt="Email "  /> </a>
+<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="80" alt="whats app"  /> </a>
+
+
+</div>
+
+<h3 align="left"></h3>
+
+<h3 align="left">💻 Check Out My Projects ⬇️ </h3>
 
 ###
 
