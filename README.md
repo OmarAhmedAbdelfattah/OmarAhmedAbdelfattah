@@ -20,14 +20,14 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 
 ###
-<h3 align="left">🎓 Education & Courses</h3>
+<h2 align="left">🎓 Education & Courses</h2>
 
 - Bachelor’s Degree in Business Administration - Cairo University 2015-2019 ✅
 - Master's Degree in Big Data Technology - University of East London 2026-2028⏳
   
 ###
   
-<h3 align="left">📚 Courses</h3>
+<h2 align="left">📚 Courses</h2>
 
 - Udacity Data Analysis Professional Nanodegree  ✅
 - Udacity Data Analysis Advanced Nanodegree ✅ 
@@ -44,7 +44,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 <a href="https://skillshop.credential.net/8a8ee819-45ec-4397-b2a8-599a55dfbf6a#acc.u41OfXYy" target="_blank"> <img src="https://openbadgepassport.com/file/a/0/1/0/a01001d5d66720d750fddf9b220e31ee4b9919a1a22cf9e1480d7640da35ef65.png" height="80" /> </a>
 </div>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
@@ -90,7 +90,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 ###
 
-<h3 align="left">💻 Check Out My Projects ⬇️ </h3>
+<h2 align="left">💻 Check Out My Projects ⬇️ </h2>
 
 ###
 
