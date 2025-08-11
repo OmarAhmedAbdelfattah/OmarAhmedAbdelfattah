@@ -60,8 +60,9 @@
 - Google Advanced Data Analytics Professional Certificate 🔄
 
 ###
-<h3 align="left">📜 Certifications</h3>
+<h2 align="left">📜 Certifications</h2>
 <div 
+
 
 <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80" /> </a>
 <a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height="80" /> </a>
@@ -115,6 +116,12 @@
 ###
 
 <h2 align="left">💻 Check Out My Projects ⬇️ </h2>
+
+<div>
+
+[![Ecommerce Churn Prediction & RFM Analysis](https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI/raw/main/dashboard-overview.png)]([https://github.com/OmarAhmedAbdelfattah/ecommerce-churn-rfm](https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI))
+
+</div>
 
 ###
 
