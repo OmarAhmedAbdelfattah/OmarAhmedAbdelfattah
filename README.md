@@ -83,8 +83,8 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin "  /> </a>
-  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://gifdb.com/images/high/email-icon-notification-cx5j6sw64pod96cr.gif" height="60" alt="Email "  /> </a>
-<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="60" alt="whats app"  /> </a>
+  <a href="mailto:Omar.ahmed.a.elfattah@gmail.com" target="_blank"> <img src="https://gifdb.com/images/high/email-icon-notification-cx5j6sw64pod96cr.gif" height="60" alt="Email "  /> </a>
+<a href="https://api.whatsapp.com/send?phone=201141494565"" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="60" alt="whats app"  /> </a>
   
 </div>
 
