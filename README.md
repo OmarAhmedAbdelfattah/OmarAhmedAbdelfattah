@@ -10,7 +10,7 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
-I'm Omar Ahmed from Egypt 🇪🇬<br><br>
+I'm Omar Ahmed from Cairo,Egypt <br><br>
 - 🔭 I’m currently working as a <b>Sr.Data Analyst</b> at NowPay<br>
 - 📚 I’m currently learning <b>Data Science, Machine Learning, Cloud Computing, dbt, Airflow</b><br>
 - 🎯 My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning</b> <br>
