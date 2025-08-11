@@ -13,8 +13,8 @@
 I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - 🔭 I’m currently working as a <b>Sr.Data Analyst</b> at NowPay<br>
 - 📚 I’m currently learning <b>Data Science, Machine Learning, Cloud Computing, dbt, Airflow</b><br>
-- 🎯 My goal is to transition into <b>Data Analytics Engineer / Cloud Data Engineer / AI Engineer</b> roles<br>
-- ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="60" width="20" src= "https://kaufdeinfleisch.de/wp-content/uploads/2024/09/Red-Bull-Energy-Drink_250ml_Einzeldose_LRES@4x-1024x1024.png"/>
+- 🎯 My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning</b> <br>
+- ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="40" width="30" src= "https://kaufdeinfleisch.de/wp-content/uploads/2024/09/Red-Bull-Energy-Drink_250ml_Einzeldose_LRES@4x-1024x1024.png"/>
 </p>
 
 
