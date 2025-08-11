@@ -78,7 +78,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2021/11/Google-Analytics-Logo.png" height="40" width="80"  alt="google analyticslogo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" height="40" width="80"  alt="google analyticslogo"/>
   <img width="12" />
 
 </div>
@@ -89,7 +89,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin "  /> </a>
-  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" height="80" alt="Email "  /> </a>
+  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://gifdb.com/images/high/email-icon-notification-cx5j6sw64pod96cr.gif" height="80" alt="Email "  /> </a>
 <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="80" alt="whats app"  /> </a>
 
 
