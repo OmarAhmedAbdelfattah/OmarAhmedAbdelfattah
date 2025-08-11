@@ -17,13 +17,13 @@
         self.goal = "My goal is to Master <b>Data Science, Data Engineering, Cloud Computing, and Machine Learning"
         self.currently_learning = ["Data Science","Machine Learning","Cloud Computing","dbt","Airflow"]
         self.skills {
-                          programming_languages : ["Python", "SQL"],
-                          data_visualization_tools : ["MetaBase","Power BI","Tableau","Excel & Google Sheets"],
-                          Database_Management : ["DBMS","ETL","Data Modeling"],
-                          Cloud Platforms: ["AWS","Azure","GCP"],
-                          Web_Development_&_Automation: ["Flask","Firebase"],
-                          "devops": ["Docker", "CI/CD", "GitHub Actions"],
-                          "specialties": ["RFM Analysis", "Churn Prediction", "Financial Forecasting Models"]
+                          "Programming Languages" : ["Python", "SQL"],
+                          "Data Visualization" : ["MetaBase","Power BI","Tableau","Excel & Google Sheets"],
+                          "Database Management" : ["DBMS","ETL","Data Modeling"],
+                          "Cloud Platforms": ["AWS","Azure","GCP"],
+                          "Automation": ["Flask","Firebase"],
+                          "DevOps": ["Docker", "CI/CD", "Git & GitHub"],
+                          "Analysis Type": ["User Funnel Analysis","RFM Analysis", "Customer Churn Analysis", "Financial Forecasting Analysis"]
                     }
       def say_hello(self):
         print(f"Hi, I'm {self.name}, a {self.role}.")
