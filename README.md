@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
 I'm Omar Ahmed from Egypt 🇪🇬<br><br>
@@ -17,17 +17,15 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - ⚡ Fun fact: I can create a dashboard or troubleshoot ETL pipelines faster after a <img height="60" width="20" src= "https://kaufdeinfleisch.de/wp-content/uploads/2024/09/Red-Bull-Energy-Drink_250ml_Einzeldose_LRES@4x-1024x1024.png"/>
 </p>
 
+
+
 ###
-
-<h3 align="left"></h3>
-
 <h3 align="left">🎓 Education & Courses</h3>
 
 - Bachelor’s Degree in Business Administration - Cairo University 2015-2019 ✅
 - Master's Degree in Big Data Technology - University of East London 2026-2028⏳
   
-<h3 align="left"></h3>
-
+###
   
 <h3 align="left">📚 Courses</h3>
 
@@ -38,8 +36,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 - DataCamp Data Scientist in Python Track 🔄
 - Google Advanced Data Analytics Professional Certificate 🔄
 
-<h3 align="left"></h3>
-
+###
 <h3 align="left">📜 Certifications</h3>
 <div 
 <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in/" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80"  /> </a>
@@ -79,23 +76,19 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" height="40" width="80"  alt="google analyticslogo"/>
-  <img width="12" />
-
 </div>
 
-<h3 align="left"></h3>
-
-<h3 align="left">📫 Reach me on </h3>
+###
+<h2 align="left">📫 Reach me on </h2>
 
 <div align="left">
-<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="linkedin "  /> </a>
-  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://gifdb.com/images/high/email-icon-notification-cx5j6sw64pod96cr.gif" height="80" alt="Email "  /> </a>
-<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="80" alt="whats app"  /> </a>
-
-
+<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin "  /> </a>
+  <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://gifdb.com/images/high/email-icon-notification-cx5j6sw64pod96cr.gif" height="60" alt="Email "  /> </a>
+<a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="60" alt="whats app"  /> </a>
+  
 </div>
 
-<h3 align="left"></h3>
+###
 
 <h3 align="left">💻 Check Out My Projects ⬇️ </h3>
 
