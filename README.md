@@ -10,7 +10,7 @@
 
     class DataProfessional:
 
-    def __init__(self):
+      def __init__(self):
         self.name = "Omar Ahmed"
         self.role = "Sr.Data Analyst"
         self.language_spoken = ["Arabic", "English"]
