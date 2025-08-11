@@ -41,7 +41,6 @@ I'm Omar Ahmed from Cairo,Egypt <br><br>
 <div 
 
 <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in" target="_blank"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80" /> </a>
-
 <a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> <img src="https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png" height="80" /> </a>
 <a href="https://skillshop.credential.net/8a8ee819-45ec-4397-b2a8-599a55dfbf6a#acc.u41OfXYy" target="_blank"> <img src="https://openbadgepassport.com/file/a/0/1/0/a01001d5d66720d750fddf9b220e31ee4b9919a1a22cf9e1480d7640da35ef65.png" height="80" /> </a>
 </div>
