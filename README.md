@@ -31,20 +31,26 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
 ###
 
 
-<h3 align="left">👨🏻‍🎓 Education & Courses</h3>
+<h3 align="left">🎓 Education & Courses</h3>
 
-- Bachelor’s Degree in Business Administration
-- Udacity Data Analysis Professional Nanodegree  
-- Udacity Data Analysis Advanced Nanodegree  
-- AWS Practical Data Scientist Training Program  
-- Explore AI Academy - Data Analytics Program  
-- DataCamp Data Scientist in Python Track (In Progress)
-- Google Advanced Data Analytics Professional Certificate  (In Progress)
-- 
+- Bachelor’s Degree in Business Administration 2015-2019 ✅
+- Master's Degree in Big Data Technology - University of East London 2026-2028⏳
+
+  
+<h3 align="left">📚 Courses</h3>
+
+- Udacity Data Analysis Professional Nanodegree  ✅
+- Udacity Data Analysis Advanced Nanodegree ✅ 
+- AWS Practical Data Scientist Training Program  ✅
+- Explore AI Academy - Data Analytics Program  ✅
+- DataCamp Data Scientist in Python Track 🔄
+- Google Advanced Data Analytics Professional Certificate 🔄
+
 <h3 align="left">📜 Certifications</h3>
 
-- <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> AWS Certified Cloud Practitioner </a>
-- <a href="https://www.linkedin.com/in/omar-ahmed-abdelfattah/" target="_blank"> AWS Certified Data Analytics – Specialty  </a>
+- <a href="https://www.credly.com/badges/17e37d5e-54bc-4b0f-ad9b-9a9069dfeac6/linked_in/" target="_blank"> AWS Certified Cloud Practitioner </a>
+- <a href="https://www.credly.com/badges/6e2aa7f3-5b44-4159-9f6b-a22adfcbd504/linked_in?t=s0b4ut" target="_blank"> AWS Certified Data Analytics – Specialty  </a>
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -61,7 +67,7 @@ I'm Omar Ahmed from Egypt 🇪🇬<br><br>
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_168103.png" height="40" alt="metabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="power bi logo" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="40" alt="power bi logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="40" alt="tableau logo" />
   <img width="12" />
