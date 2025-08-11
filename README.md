@@ -115,13 +115,66 @@
 
 ###
 
-<h2 align="left">💻 Check Out My Projects ⬇️ </h2>
+<h2 align="left">💻 Check Out My Projects ⬇️</h2>
 
-<div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI" target="_blank">
+        <strong>Lead Performance Dashboard - Power BI</strong><br/><br/>
+        <img src="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI/raw/main/dashboard-overview.png" height="250" alt="Lead Performance Dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI" target="_blank"> <img src="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI/raw/main/dashboard-overview.png" height="450" width ="450" alt="whats app"  /> </a>
+<!--
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/Ecommerce-Churn-RFM" target="_blank">
+      <strong>Ecommerce Churn Prediction & RFM Analysis</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/Ecommerce-Churn-RFM/raw/main/preview.png" height="250" alt="Ecommerce Churn Prediction" />
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/Sales-KPI-PowerBI" target="_blank">
+      <strong>Sales & KPI Power BI Dashboard</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/Sales-KPI-PowerBI/raw/main/preview.png" height="250" alt="Sales & KPI Dashboard" />
+    </a>
+  </td>
+</tr>
 
-</div>
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/Fintech-Data-Pipeline" target="_blank">
+      <strong>Fintech Data Analytics Pipeline</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/Fintech-Data-Pipeline/raw/main/preview.png" height="250" alt="Fintech Data Pipeline" />
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/Data-Automation-Flask" target="_blank">
+      <strong>Data Automation Flask App</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/Data-Automation-Flask/raw/main/preview.png" height="250" alt="Data Automation Flask App" />
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/AWS-ETL-Pipeline" target="_blank">
+      <strong>AWS ETL Pipeline Project</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/AWS-ETL-Pipeline/raw/main/preview.png" height="250" alt="AWS ETL Pipeline Project" />
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/OmarAhmedAbdelfattah/PowerBI-Sales-Insights" target="_blank">
+      <strong>Power BI Sales Insights</strong><br/><br/>
+      <img src="https://github.com/OmarAhmedAbdelfattah/PowerBI-Sales-Insights/raw/main/preview.png" height="250" alt="Power BI Sales Insights" />
+    </a>
+  </td>
+</tr>
+-->
+
 
 ###
 
