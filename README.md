@@ -125,6 +125,14 @@
         <img src="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI/raw/main/dashboard-overview.png" height="250" alt="Lead Performance Dashboard" />
       </a>
     </td>
+
+  <td align="center" width="50%">
+  <a href="https://github.com/OmarAhmedAbdelfattah/Data-Deduplication-using-Machine-Learning-and-AWS" target="_blank">
+      <strong>Data Deduplication using Machine Learning & AWS</strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/7c295e70-b720-4984-821d-e5fed2264f4f" height="250" alt="Ecommerce Churn Prediction" />
+    </a>
+  </td>
+  
   </tr>
 </table>
 
