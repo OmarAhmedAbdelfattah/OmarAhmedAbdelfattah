@@ -135,19 +135,17 @@
       <span ">
         🛠 Python • AWS Cloud
       </span><br/><br/>
-      <img src="https://github.com/user-attachments/assets/7c295e70-b720-4984-821d-e5fed2264f4f" height="250" alt="Ecommerce Churn Prediction" />
+      <img src="https://github.com/user-attachments/assets/7c295e70-b720-4984-821d-e5fed2264f4f" height="250" alt="Data Deduplication" />
     </a>
   </td>
   
   </tr>
-</table>
 
-<!--
-<tr>
+  <tr>
   <td align="center" width="50%">
-    <a href="https://github.com/OmarAhmedAbdelfattah/Ecommerce-Churn-RFM" target="_blank">
-      <strong>Ecommerce Churn Prediction & RFM Analysis</strong><br/><br/>
-      <img src="https://github.com/OmarAhmedAbdelfattah/Ecommerce-Churn-RFM/raw/main/preview.png" height="250" alt="Ecommerce Churn Prediction" />
+    <a href="https://github.com/OmarAhmedAbdelfattah/Twitter-Sentiment-Analysis-using-AWS" target="_blank">
+      <strong>Twitter / X Sentiment Analysis using AWS </strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/584128ff-2523-4554-aba0-d5461a9a8f22" height="250" alt="Twitter-Sentiment-Analysis" />
     </a>
   </td>
   <td align="center" width="50%">
@@ -157,6 +155,10 @@
     </a>
   </td>
 </tr>
+
+</table>
+
+<!--
 
 <tr>
   <td align="center" width="50%">
