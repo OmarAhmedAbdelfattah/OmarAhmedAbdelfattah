@@ -142,8 +142,8 @@
     <a href="https://github.com/OmarAhmedAbdelfattah/Twitter-Sentiment-Analysis-using-AWS" target="_blank">
       <strong>Twitter / X Sentiment Analysis using AWS </strong><br/><br/>
       <span > 🛠 Python • AWS Cloud</span><br/><br/>
-      <img src="https://github.com/user-attachments/assets/f171476a-e54a-486f-9251-7334178d1fde" width="200" height="500" alt="Twitter-Sentiment-Dashboard" />
-      <img src="https://github.com/user-attachments/assets/584128ff-2523-4554-aba0-d5461a9a8f22" width="202" height="500" alt="Twitter-Sentiment-Analysis" />  
+      <img src="https://github.com/user-attachments/assets/f171476a-e54a-486f-9251-7334178d1fde" width="200" height="300" alt="Twitter-Sentiment-Dashboard" />
+      <img src="https://github.com/user-attachments/assets/584128ff-2523-4554-aba0-d5461a9a8f22" width="202" height="300" alt="Twitter-Sentiment-Analysis" />  
     </a>
   </td>
   <td align="center" width="50%">
