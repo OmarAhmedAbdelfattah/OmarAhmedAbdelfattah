@@ -122,9 +122,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI" target="_blank">
         <strong>Lead Performance Dashboard - Power BI</strong><br/><br/>
-           <span ">
-        🛠 Power BI
-        </span><br/><br/>
+        <span >🛠 Power BI </span><br/><br/>
         <img src="https://github.com/OmarAhmedAbdelfattah/Lead-Performance-Dashboard-PowerBI/raw/main/dashboard-overview.png" height="250" alt="Lead Performance Dashboard" />
       </a>
     </td>
@@ -132,9 +130,7 @@
   <td align="center" width="50%">
   <a href="https://github.com/OmarAhmedAbdelfattah/Data-Deduplication-using-Machine-Learning-and-AWS" target="_blank">
       <strong>Data Deduplication using ML & AWS Glue FindMatches</strong><br/><br/>
-      <span ">
-        🛠 Python • AWS Cloud
-      </span><br/><br/>
+      <span > 🛠 Python • AWS Cloud</span><br/><br/>
       <img src="https://github.com/user-attachments/assets/7c295e70-b720-4984-821d-e5fed2264f4f" height="250" alt="Data Deduplication" />
     </a>
   </td>
@@ -145,7 +141,9 @@
   <td align="center" width="50%">
     <a href="https://github.com/OmarAhmedAbdelfattah/Twitter-Sentiment-Analysis-using-AWS" target="_blank">
       <strong>Twitter / X Sentiment Analysis using AWS </strong><br/><br/>
-      <img src="https://github.com/user-attachments/assets/584128ff-2523-4554-aba0-d5461a9a8f22" height="250" alt="Twitter-Sentiment-Analysis" />
+      <span > 🛠 Python • AWS Cloud</span><br/><br/>
+      <img src="https://github.com/user-attachments/assets/f171476a-e54a-486f-9251-7334178d1fde" width="200" height="500" alt="Twitter-Sentiment-Dashboard" />
+      <img src="https://github.com/user-attachments/assets/584128ff-2523-4554-aba0-d5461a9a8f22" width="202" height="500" alt="Twitter-Sentiment-Analysis" />  
     </a>
   </td>
   <td align="center" width="50%">
